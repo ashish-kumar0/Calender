@@ -1,49 +1,57 @@
 # 📅 Wall Calendar — Interactive React Component
 
-A polished, interactive wall calendar component built with React + Vite, inspired by physical wall calendars. Features date range selection, integrated notes, holiday markers, and a fully responsive design.
+A polished, interactive wall calendar component inspired by physical wall calendars. Made with React and Vite, it brings a delightful and productive calendar experience to web apps. Plan, track, and annotate your year easily with a beautiful monthly interface.
 
 ---
 
 ## ✨ Features
 
-- **Wall Calendar Aesthetic** — Hero image per month with spiral binding decoration
-- **Date Range Selector** — Click start date, hover to preview, click end date
-- **Integrated Notes** — Month-level notes + date-range-specific notes (auto-saved to localStorage)
-- **Holiday Markers** — Indian + International holidays highlighted
-- **Month Flip Animation** — Subtle page-turn effect on navigation
-- **Responsive Design** — Side-by-side on desktop, stacked on mobile
-- **Dynamic Theming** — Accent color shifts per month
+- **Authentic Wall Calendar Look** – Monthly hero images, spiral binding, and subtle shadows for a classic vibe.
+- **Date Range Selection** – Intuitive range selection: click to start, hover to expand, click to complete.
+- **Integrated Notes** – Add, edit, and auto-save notes for each month or specific date range; all persisted in localStorage.
+- **Voice to Text Conversion** – Quickly add notes using your voice for hands-free productivity.
+- **Search Bar for Notes** – Instantly search and filter notes, making it easy to find what you need.
+- **Delete Notes Easily** – Remove any note by simply clicking the bin/trash icon.
+- **Holiday Markers** – Recognizes and highlights major Indian and international holidays for clear scheduling.
+- **Animated Month Flips** – Enjoy smooth, CSS-powered animations when switching months.
+- **Responsive Layout** – Optimized for desktop (side-by-side view) and mobile (stacked layout).
+- **Dynamic Theming** – Accent colors and images change seamlessly every month.
+- **No Backend Required** – 100% client-side; your data never leaves your browser.
+- **Reusable Hooks** – Includes custom React hooks (`useDateRange`, `useNotes`) for easy integration and code reuse.
+- **Quick Start** – Simple Vite setup, ready to clone and run.
+- **Accessible and Keyboard-Friendly** – Navigable and usable without mouse input.
+- **Customizable** – Swap hero images, add more holidays, or adapt styling as needed.
 
 ---
 
-## 🚀 Run Locally
+## 🚀 Quick Start
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/wall-calendar.git
-cd wall-calendar
+git clone https://github.com/ashish-kumar0/Calender.git
+cd Calender
 
 # 2. Install dependencies
 npm install
 
-# 3. Start development server
+# 3. Start the development server
 npm run dev
 
 # 4. Open in browser
-# http://localhost:5173
+# Visit http://localhost:5173
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| React 18 | UI framework |
-| Vite | Build tool |
-| Lucide React | Icons |
-| CSS Variables | Dynamic theming |
-| localStorage | Notes persistence |
+| Tool         | Purpose              |
+|--------------|---------------------|
+| React 18     | UI framework        |
+| Vite         | Build tool          |
+| Lucide React | Icons               |
+| CSS Variables| Dynamic theming     |
+| localStorage | Notes persistence   |
 
 ---
 
@@ -57,35 +65,35 @@ src/
 │   │   ├── CalendarHeader.jsx    # Month nav + spiral binding
 │   │   └── HeroImage.jsx         # Monthly hero image
 │   ├── Notes/
-│   │   └── NotesPanel.jsx        # Notes area (month + range)
+│   │   └── NotesPanel.jsx        # Month & range notes area
 │   └── Layout/
-│       └── CalendarWrapper.jsx   # Responsive layout shell
+│       └── CalendarWrapper.jsx   # Responsive shell
 ├── hooks/
 │   ├── useDateRange.js           # Range selection logic
-│   └── useNotes.js               # localStorage notes
+│   └── useNotes.js               # Notes logic
 ├── utils/
-│   └── calendarHelpers.js        # Grid generation, date utils
+│   └── calendarHelpers.js        # Date/grid helpers
 └── constants/
-    └── heroImages.js             # Per-month images + holidays
+    └── heroImages.js             # Monthly images, holidays
 ```
 
 ---
 
 ## 🎯 Design Decisions
 
-- **No backend needed** — All notes stored in localStorage (client-side only)
-- **Unsplash images** — Free, high-quality, no API key required
-- **CSS-only animations** — No animation library needed, keeps bundle small
-- **Custom hooks** — useDateRange and useNotes are fully reusable
+- **Local-First** – All data stored in-browser with `localStorage`
+- **Unsplash Images** – High-quality, license-free hero images; no external API key needed.
+- **All-CSS Animations** – Minimizes dependencies and improves perf.
+- **Fully Reusable Hooks** – Easy to drop into your own project.
 
 ---
 
-## 📱 Responsive Behavior
+## 📱 Responsive Design
 
-| Screen | Layout |
-|--------|--------|
-| Desktop (>700px) | Hero image left, calendar + notes right |
-| Mobile (700px) | Hero top → calendar → notes (stacked) |
+| Screen             | Layout                                         |
+|--------------------|------------------------------------------------|
+| Desktop (>700px)   | Hero image left, calendar + notes right       |
+| Mobile (≤700px)    | Hero image top, then calendar, then notes     |
 
 ---
 
@@ -101,4 +109,29 @@ src/
 
 ---
 
-Made with love by Ashish Kumar
+## 💡 Usage Scenarios
+
+- Personal productivity dashboard
+- Event planning tools
+- School/academic scheduling
+- Habit tracking and journaling
+- Family or team wall calendar apps
+
+---
+
+## 🤝 Contributing
+
+Pull requests and issue reports are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines or open an issue to discuss improvements.
+
+---
+
+## 📝 License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## 🙋‍♂️ Author & Contact
+
+Made with ❤️ by Ashish Kumar  
+Questions? Suggestions? Open an issue or reach me at [your.email@example.com](mailto:your.email@example.com)
