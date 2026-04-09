@@ -99,13 +99,13 @@ src/
 
 ## 🌐 Live Demo
 
-[View on Vercel](https://wall-calendar-ashish.vercel.app)
+[View on Vercel]([https://wall-calendar-ashish.vercel.app](https://calender-drab-gamma.vercel.app/))
 
 ---
 
 ## 📸 Video Demo
 
-[Watch on Loom](https://loom.com/YOUR_LINK)
+[Watch on Loom]([https://loom.com/YOUR_LINK](https://www.loom.com/share/0830d36bbaa74c048934acaadecead23))
 
 ---
 
@@ -119,19 +119,7 @@ src/
 
 ---
 
-## 🤝 Contributing
-
-Pull requests and issue reports are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines or open an issue to discuss improvements.
-
----
-
-## 📝 License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## 🙋‍♂️ Author & Contact
 
 Made with ❤️ by Ashish Kumar  
-Questions? Suggestions? Open an issue or reach me at [your.email@example.com](ashishkumar.dev26@gmail.com)
+Questions? Suggestions? Open an issue or reach me at [ashishkumar.dev26@gmail.com](ashishkumar.dev26@gmail.com)
