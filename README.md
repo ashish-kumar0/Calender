@@ -99,13 +99,13 @@ src/
 
 ## 🌐 Live Demo
 
-[View on Vercel]([https://wall-calendar-ashish.vercel.app](https://calender-drab-gamma.vercel.app/))
+[View on Vercel]([https://wall-calendar-ashish.vercel.app](https://calender-drab-gamma.vercel.app/)
 
 ---
 
 ## 📸 Video Demo
 
-[Watch on Loom]([https://loom.com/YOUR_LINK](https://www.loom.com/share/0830d36bbaa74c048934acaadecead23))
+[Watch on Loom]([https://loom.com/YOUR_LINK](https://www.loom.com/share/0830d36bbaa74c048934acaadecead23)
 
 ---
 
