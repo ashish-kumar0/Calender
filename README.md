@@ -22,6 +22,8 @@ A polished, interactive wall calendar component inspired by physical wall calend
 - **Accessible and Keyboard-Friendly** – Navigable and usable without mouse input.
 - **Customizable** – Swap hero images, add more holidays, or adapt styling as needed.
 - **Dark / Light Mode Toggle** – Seamlessly switch between dark and light themes for comfortable viewing in any environment, with your preference       remembered for future visits.
+- **Tag Selection Feature** - The Tag Selection feature allows users to categorize each note with a priority/status label, making notes easier to       identify and organize visually across the calendar.(Tags available {urgent, remainder, done, info}).
+- **Mood Selection Feature** - The Mood Selection feature lets users record emotional state for a selected day, adding a personal productivity and      reflection layer to the calendar.(Moods available {Happy, sad excitement etc}).
 
 ---
 
