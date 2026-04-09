@@ -108,7 +108,7 @@ src/
 
 ## 📸 Video Demo
 
-[Watch on Loom]([https://loom.com/YOUR_LINK](https://www.loom.com/share/0830d36bbaa74c048934acaadecead23)
+[Watch on Loom]([https://loom.com/](https://www.loom.com/share/0830d36bbaa74c048934acaadecead23)
 
 ---
 
