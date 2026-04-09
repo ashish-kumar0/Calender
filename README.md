@@ -134,4 +134,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## 🙋‍♂️ Author & Contact
 
 Made with ❤️ by Ashish Kumar  
-Questions? Suggestions? Open an issue or reach me at [your.email@example.com](mailto:your.email@example.com)
+Questions? Suggestions? Open an issue or reach me at [your.email@example.com](ashishkumar.dev26@gmail.com)
