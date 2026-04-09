@@ -21,6 +21,7 @@ A polished, interactive wall calendar component inspired by physical wall calend
 - **Quick Start** – Simple Vite setup, ready to clone and run.
 - **Accessible and Keyboard-Friendly** – Navigable and usable without mouse input.
 - **Customizable** – Swap hero images, add more holidays, or adapt styling as needed.
+- **Dark / Light Mode Toggle** – Seamlessly switch between dark and light themes for comfortable viewing in any environment, with your preference       remembered for future visits.
 
 ---
 
